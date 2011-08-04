@@ -39,7 +39,6 @@
 %endif
 
 %define rel			5
-%define distsuffix		plf
 %define release			%mkrel %rel
 
 %define name			xmame
