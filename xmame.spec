@@ -85,7 +85,7 @@ Patch12:	xmame-mamex.patch.bz2
 
 License:	Freeware
 #Actual (X)MAME license : http://x.mame.net/license.html
-URL:		http://x.mame.net/
+URL:		https://x.mame.net/
 Group:		Emulators
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 BuildRequires:	esound-devel XFree86-devel zlib-devel dos2unix 
